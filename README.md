@@ -17,26 +17,27 @@ This is demo developer portfolio using React JS.
 
 ### Run and Setup
 
-1. Fork the Project and clone Repository using git clone
+1. Fork the Project and clone Repository using git clone with
 
 ```
-git clone https://github.com/arkaprota/Developer-Portfolio.git
+git clone https://github.com/arkaprota/Portfolio.gits
 ```
 
-2.  Install all dependency in package.json
+2. Install all dependency in package.json
 
 ```
 npm [install / i]
 ```
 
-3.  Run application using command
+3. Run application using command in terminal
 
 ```
 npm run dev
 ```
 
-5. Automatically open the website in localhost
+4. Press [<ctrl> + "click enter on the link"] or copy and paste the url to your browserto open the website in localhost
 
 ```
 http://localhost/5173
 ```
+5. Happy Serving
