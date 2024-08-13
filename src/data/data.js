@@ -48,8 +48,8 @@ export const projectsdata = [
   },
   {
     id: 2,
-    title: "Todo-List Application",
-    subtitle: "Personal Application",
+    title: "Todo-List",
+    subtitle: "Todo Application",
     description:
     "Users can create tasks, set deadlines, and categorize them based on priority or project. I have used RESTful Api for building the website.",
     image: "./image/todo.png",
@@ -60,8 +60,8 @@ export const projectsdata = [
   },
   {
     id: 3,
-    title: "Job Portal Website",
-    subtitle: "Personal Application",
+    title: "Get Job",
+    subtitle: "Job Search Application",
     description:
       "It's a job portal website where users can apply for jobs and recruiters can post jobs. We've developed RESTful APIs using Node.js and Express.js, and for the database, we use MongoDB. The frontend is built using React.js.",
     image: "./image/job.jpg",
