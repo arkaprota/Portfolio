@@ -77,10 +77,10 @@ export const projectsdata = [
     description:
       "A responsive and dynamic portfolio website built with HTML, CSS, Bootstrap, and React. Showcasing my development skills, projects, and experience with a sleek design. Integrated with Node.js for seamless functionality.",
     image: "./image/portfolio.jpg",
-    githubLink: "https://github.com/arkaprota/Job-Portal-Website",
+    githubLink: "https://github.com/arkaprota/Portfolio",
     websiteLink: null,
     downloadLink: null,
-    tech: [" HTML ", " CSS ", "Bootstrap", "JavaScript", "React", "Node"],
+    tech: [" HTML ", " CSS ", "Bootstrap", "JavaScript", "React"],
   },
 ];
 export const skillsdata = [
